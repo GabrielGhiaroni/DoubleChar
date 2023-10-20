@@ -1,4 +1,4 @@
-# DoubleChar
+## DoubleChar
 ##### **This is a CodeWars Challenge
 
 
